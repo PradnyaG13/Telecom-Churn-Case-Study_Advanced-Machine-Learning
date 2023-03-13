@@ -1,5 +1,5 @@
 # Telecom-Churn-Case-Study_Advanced-Machine-Learning
-##### Note : In Jupyter environment, this cell shows the HTML representation of the .ipynb file uploaded.
+##### Note : In Jupyter environment, the cell shows the HTML representation of the .ipynb file uploaded.
 ##### On GitHub, the HTML representation is unable to render, please try loading the .ipynb file with nbviewer.org
 ## Problem Statement
 ## Business Problem Understanding
